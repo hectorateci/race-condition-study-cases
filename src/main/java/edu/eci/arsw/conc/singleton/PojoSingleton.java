@@ -17,7 +17,7 @@ public class PojoSingleton {
     private PojoSingleton(){
         /*try {
             //simulation of the time required by the constructor
-            Thread.sleep(0);
+            Thread.sleep(1);
         } catch (InterruptedException ex) {
             Logger.getLogger(PojoSingleton.class.getName()).log(Level.SEVERE, null, ex);
         }*/
